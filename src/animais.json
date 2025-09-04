@@ -1,0 +1,9 @@
+{
+  "Rex": ["RATO", "BOLA"],
+  "Mimi": ["BOLA", "LASER"],
+  "Fofo": ["BOLA", "RATO", "LASER"],
+  "Zero": ["RATO", "BOLA"],
+  "Bola": ["CAIXA", "NOVELO"],
+  "Bebe": ["LASER", "RATO", "BOLA"],
+  "Loco": ["SKATE", "RATO"]
+}
